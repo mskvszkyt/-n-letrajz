@@ -1,0 +1,46 @@
+#adatok {
+    background-color: cadetblue;
+    border-radius: 10%;
+    font-style: italic;
+    color: lightblue;
+    text-align: right;
+    font-size: 1.2em;
+    
+}
+
+body {
+
+    background-image: url(download.jpg) ;
+    background-size: 50%;
+}
+
+td {
+    width: fit-content;
+    height: fit-content;
+    font-size: 20px;
+}
+
+h2 {
+  color: darkslategray;  
+  font-size: 30px;
+}
+
+table {
+    height: 100%;
+    width:100%;
+}
+
+h1 {
+   text-align: left;
+   font-size: 50px;
+}
+
+img {
+    width: 100px;
+    height: 130px;
+    border-radius: 50%;
+}
+
+li {
+    font-size: 1.3em;
+}
